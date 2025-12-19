@@ -1,2 +1,4 @@
-# Quiz-game-
-A simple command-line quiz game built using Python that asks multiple-choice questions and displays the final score.
+# 🎯 Quiz Game
+
+This project is a simple quiz game developed using Python.  
+It runs in the terminal, asks multiple-choice questions, and displays the final score at the end.
